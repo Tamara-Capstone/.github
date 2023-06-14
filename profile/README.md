@@ -8,7 +8,7 @@
 
 We are from team C23-PS320, and this is our project repository.
 
-Our project combines technologies from machine learning, android, and cloud computing to produce a mobile app that can predict plants diseases, forecast weather, and analyze farmland production.
+Our project combines technologies from machine learning, android, and cloud computing to produce a mobile app that can predict plants diseases, forecast weather, and track the productivity of user land.
 
 ## Team Members
 | Name | Bangkit ID | GitHub |
